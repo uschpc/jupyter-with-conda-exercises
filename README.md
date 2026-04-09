@@ -1,9 +1,9 @@
 [![CARC](./images/carc-logo.png 'CARC')](https://carc.usc.edu)
-# Software at CARC - JupyterLab and conda - Workshop
+# Software at CARC - JupyterLab and conda
 
 This repository contains Jupyter notebooks intended to run on USC CARC Discovery Cluster. 
 
-## By participating in this workshop, you’ll:
+## By participating, you’ll:
 
 * Learn the fundamental skills required to create and manage conda environments
 
